@@ -2,7 +2,7 @@
   "name": "create-iwtkings",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://gitee.com/iwtkings/create-iwtkings.git",
+  "repository": "https://github.com/iwtkings/create-iwtkings.git",
   "author": "王通 <iwtkings@163.com>",
   "license": "MIT",
   "type": "module",
