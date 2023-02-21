@@ -1,0 +1,20 @@
+{
+  "name": "create-iwtkings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitee.com/iwtkings/create-iwtkings.git",
+  "author": "王通 <iwtkings@163.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@types/command-line-args": "^5.2.0",
+    "@types/command-line-usage": "^5.0.2",
+    "@types/prompts": "^2.4.2",
+    "chalk": "^5.2.0",
+    "command-line-args": "^5.2.1",
+    "command-line-usage": "^6.1.3",
+    "download-git-repo": "^3.0.2",
+    "ora": "^6.1.2",
+    "prompts": "^2.4.2"
+  }
+}
